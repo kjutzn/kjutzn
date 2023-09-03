@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kjutzn
-- 👀 I’m interested in objective C and C++
-- 🌱 I’m currently learning C
+- 👀 I’m interested in SwiftUI and C++
 - 📫 Message me to my mail: i forgot to put it
 
