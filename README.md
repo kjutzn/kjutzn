@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kjutzn
-- 👀 I’m interested in SwiftUI and C++
+- 👀 learning C# rn
 - 📫 Message me to my mail: i forgot to put it
 
