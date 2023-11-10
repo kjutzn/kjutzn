@@ -1,3 +1,1 @@
-- 🧹 Get Hopper Sort asap
-- 📫 raven_remotes.0g@icloud.com
-
+- 🧹 Get [Hopper Sort](https://github.com/kjutzn/hoppersort) asap
