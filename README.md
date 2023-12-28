@@ -1,1 +1,1 @@
-- 🧹 Get [Hopper Sort](https://github.com/kjutzn/hoppersort) asap
+- 🧹 Get [Hopper Sort](https://github.com/kjutzn/hoppersort) and [Cry-Ptex1](https://github.com/kjutzn/cry-ptex1)
