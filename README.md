@@ -1,1 +1,2 @@
-- 🧹 Get [Hopper Sort](https://github.com/kjutzn/hoppersort) and [Cry-Ptex1](https://github.com/kjutzn/cry-ptex1)
+[Hopper Sort](https://github.com/kjutzn/hoppersort)
+[Cry-Ptex1](https://github.com/kjutzn/cry-ptex1)
